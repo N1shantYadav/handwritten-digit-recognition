@@ -12,6 +12,8 @@ This project is a deep learning-based solution for recognizing handwritten digit
 2. **Real-Time Prediction Application:**
    - Built using Pygame to provide a digit-drawing interface.
    - Predicts the digit drawn by the user and displays the result.
+  
+![Handwritten Digit Sample](example.png)
 
 ## Installation
 
